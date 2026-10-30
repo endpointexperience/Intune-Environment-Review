@@ -57,6 +57,18 @@ A configuration can generally be considered:
 Every organization is different. A configuration that is appropriate in one
 environment may not be appropriate in another.
 
+## Using the checklist
+
+Start with the individual review areas or use the
+[Environment Review Template](templates/environment-review-template.md)
+to document your findings.
+
+For each area, consider whether the current configuration is:
+
+- 🟢 Good
+- 🟡 Review
+- 🔴 Action
+
 ## Contributing
 
 This is intended to be a community project.
