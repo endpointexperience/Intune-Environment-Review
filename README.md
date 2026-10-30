@@ -1,8 +1,11 @@
 # Intune-Environment-Review
 A community-driven checklist for reviewing Microsoft Intune environments
-# Intune Environment Review
 
-A community-driven checklist for reviewing Microsoft Intune environments.
+**Current version: v0.1**
+
+> 🚧 This project is currently in an early development stage.
+> The checklist will continue to evolve based on real-world experience
+> and community feedback.
 
 The goal of this project isn't to define the "perfect" Intune configuration.
 
