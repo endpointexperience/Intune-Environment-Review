@@ -66,6 +66,6 @@ requests are welcome.
 
 ## About
 
-Created and maintained by EndpointExperience
+Created and maintained by EndpointExperience.com
 
 **Secure endpoints. Better user experience.**
