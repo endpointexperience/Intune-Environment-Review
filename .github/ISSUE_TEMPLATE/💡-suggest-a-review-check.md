@@ -1,5 +1,5 @@
 ---
-name: Suggest a review check
+name: "\U0001F4A1 Suggest a review check"
 about: Suggest a new check or question for the Intune Environment Review.
 title: New check or question for the Intune Environment Review -
 labels: enhancement
