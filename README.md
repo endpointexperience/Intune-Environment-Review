@@ -31,17 +31,17 @@ The important question isn't only whether a setting exists.
 
 The checklist currently covers:
 
-- Tenant & Administration
-- Enrollment
-- Device Compliance
-- Device Configuration
-- Security Baselines
-- Endpoint Security
-- Applications
-- Windows Update
-- Assignments
-- RBAC & Scope Tags
-- Monitoring & Reporting
+01 - Tenant & Administration
+02 - Enrollment
+03 - Device Compliance
+04 - Device Configuration
+05 - Security Baselines
+06 - Endpoint Security
+07 - Applications
+08 - Windows Update
+09 - Assignments
+10 - RBAC & Scope Tags
+11 - Monitoring & Reporting
 
 ## Review approach
 
