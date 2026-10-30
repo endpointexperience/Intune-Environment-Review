@@ -2,8 +2,7 @@
 
 ## Review goal
 
-Understand the fundamental configuration of the Intune tenant and verify
-that administrative decisions are intentional, documented, and still
+Understand the fundamental configuration of the tenant  in relation to Intune and verify that administrative decisions are intentional, documented, and still
 relevant.
 
 ## Review checklist
